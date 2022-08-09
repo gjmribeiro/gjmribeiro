@@ -1,30 +1,29 @@
+</div>
+<div style="display: inline_block"><br>
 
-🌱CONHECIMENTO EM DATA SCIENCE
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
+  
+  
+**✔DATA SCIENCE:**
 
-•	Coleta de dados
+* Coleta de dados
+* Tratamento de dataFrames
+* Análise exploratória
+* Criação de modelos de previsão
 
-•	Tratamento de dataFrames
+**✔PRINCIPAIS FERRAMENTAS:**
+* pandas
+* numpy
+* matplotlib.pyplot
+* seaborn
+* sql
+* selenium
 
-•	Análise exploratória
+<a href="https://instagram.com/gjmribeiro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://https://www.linkedin.com/in/gabriel-ribeiro-631631132/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-•	Criação de modelos de previsão
-
- 👀PRINCIPAIS FERRAMENTAS 
- 
-•	pandas
-
-•	numpy
-
-•	matplotlib.pyplot
-
-•	seaborn
-
-•	sql
-
-•	selenium
-
-
-<!---
-gjmribeiro/gjmribeiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  
+  
